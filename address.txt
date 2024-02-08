@@ -1,0 +1,1 @@
+LogQL is a strong query language for analysing and aggregating log data. One of LogQL's important characteristics is its ability to conduct aggregations on
