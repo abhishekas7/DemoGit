@@ -3,3 +3,4 @@ hi good morning
 how are you
 testing the git tag comman
 git amend
+testing the git stash
