@@ -1,10 +1,6 @@
 this is customer page
 hi good morning
 how are you
-<<<<<<< HEAD
 testing the git tag comman
 git amend
 testing the git stash
-=======
-testing the git tag comman
->>>>>>> parent of cdc4172 (modifiing the commit)
