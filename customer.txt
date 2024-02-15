@@ -1,0 +1,6 @@
+this is customer page
+hi good morning
+how are you
+testing the git tag comman
+git amend
+testing the git stash
